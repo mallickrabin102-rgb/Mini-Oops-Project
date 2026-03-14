@@ -15,6 +15,11 @@ The system stores and displays student information such as name, id, age, and co
 * Store multiple students using an array
 * Display student details
 * Demonstrates basic OOP concepts in Java
+* Features
+- View Students
+- Add Student
+- Search Student
+- Delete Student
 
 ##  Technologies Used
 
