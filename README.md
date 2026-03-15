@@ -1,6 +1,9 @@
 # Mini-Oops-Project
 mini oops projects
-# Mini OOP Project - Student Record System
+# Mini OOP Project :
+• Student Record System
+• ATM Menu Driven System
+
 
 ##  Project Description
 
