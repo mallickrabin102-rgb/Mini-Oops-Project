@@ -9,6 +9,11 @@ mini oops projects
 
 This is a simple Java project based on Object Oriented Programming (OOP).
 The project demonstrates the use of **Class, Object, Constructor, Methods and Array of Objects**.
+• Class & Object
+• Constructor
+• Encapsulation
+• Methods
+• Menu Driven Program
 
 The system stores and displays student information such as name, id, age, and course.
 
