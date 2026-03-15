@@ -1,43 +1,16 @@
-# Mini-Oops-Project
-mini oops projects
-# Mini OOP Project :
-• Student Record System
-• ATM Menu Driven System
+## Project Description
 
+This repository contains small Java projects built to practice **Object-Oriented Programming (OOP)** concepts.
 
-##  Project Description
+The projects demonstrate the practical use of **Class, Object, Constructor, Encapsulation, Methods, Arrays of Objects, and Menu-Driven Programs**. These mini projects help in understanding how real-world systems can be designed using OOP principles.
 
-This is a simple Java project based on Object Oriented Programming (OOP).
-The project demonstrates the use of **Class, Object, Constructor, Methods and Array of Objects**.
-• Class & Object
-• Constructor
-• Encapsulation
-• Methods
-• Menu Driven Program
+Projects included in this repository:
 
-The system stores and displays student information such as name, id, age, and course.
+• **Student Record System** – A simple system to store, display, search, and manage student information using arrays and OOP concepts.
 
-## Features
+• **ATM Menu Driven System** – A console-based ATM simulation that allows users to deposit money, withdraw money, and check account balance using encapsulation and menu-driven logic.
 
-* Create Student objects
-* Store multiple students using an array
-* Display student details
-* Demonstrates basic OOP concepts in Java
-* Features
-- View Students
-- Add Student
-- Search Student
-- Delete Student
-
-##  Technologies Used
-
-* Java
-* OOP Concepts
-
-## Project Structure
-
-* `Students.java` → Contains the Student class and constructor
-* `StudentRecordSystem.java` → Main class to run the program
+These projects are created as part of learning **Java programming and software development fundamentals**, and they focus on improving problem-solving skills and programming logic.
 
 ## How to Run
 
